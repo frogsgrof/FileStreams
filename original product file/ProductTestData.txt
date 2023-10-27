@@ -1,0 +1,5 @@
+000001, Sassy Mint, Changes the Pokémon's stats to match the Sassy nature., 10.5
+000002, Petaya Berry, Raises Special Attack when HP is low., 2.23
+000003, HM03, Teaches the move Surf., 1000.0
+000004, Poké Ball, Catches wild Pokémon., 50.0
+000005, Elixir, Restores 10 PP to all moves of a Pokémon., 30.0
